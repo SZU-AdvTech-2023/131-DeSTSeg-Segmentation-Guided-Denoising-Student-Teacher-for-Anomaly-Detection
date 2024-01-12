@@ -1,0 +1,7 @@
+@inproceedings{REPO131,
+    author = "Zhang, Xuan and Li, Shiyu and Li, Xi and Huang, Ping and Shan, Jiulong and Chen, Ting",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "3914--3923",
+    title = "{DeSTSeg: Segmentation Guided Denoising Student-Teacher for Anomaly Detection}",
+    year = "2023"
+}
